@@ -27,3 +27,9 @@ Get the followings:
     - The average number of individuals per mutation = m_sum / number of mutations
 - The minimum and maximum number of individuals per mutation
 
+## Data Preprocessing
+### Outlier detection
+Use scatterplots to determine if there are (1) any outlier samples and (2) if there are any outlier genetic mutations.
+### Understand data better
+Explore how the individual genetic mutations relate to the two categories of samples
+
