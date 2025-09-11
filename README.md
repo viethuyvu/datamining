@@ -33,3 +33,10 @@ Use scatterplots to determine if there are (1) any outlier samples and (2) if th
 ### Understand data better
 Explore how the individual genetic mutations relate to the two categories of samples
 
+# Classification
+1. Generate a confusion matrix of The top two features when ranked by T, the total occurrences in all samples
+2. Use stacked bar charts to represent the information contained in the confusion matrices that you generated in Step 1. One stacked bar chart should show TP and FP stacked on top of each other, and a second stacked bar chart should show TN and FN stacked on top of each other
+3. Use a donut chart to represent the information contained in the confusion matrices that you generated in Step 1. Hint: Use one ‘slice’ of the donut for each of the following: TP, FP, TN, and FN
+4. Which of the two mutations listed above is more useful for the classification of the C and NC samples?
+5. If we use the quantity “TP – FP” to classify samples, which feature would be the most useful for classifying samples? (I.e., of all possible mutations, which genetic mutation yields the maximal value for the quantity “TP – FP”?) What is the maximum value of “TP – FP” across all features?
+6. If we use the quantity “%TP - %FP” to classify samples, which feature would be the most useful for classifying samples? (I.e., of all possible mutations, which genetic mutation yields the maximal value for the quantity “%TP - %FP”?) What is the maximum value of “%TP – %FP” across all features?
