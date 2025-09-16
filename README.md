@@ -40,3 +40,6 @@ Explore how the individual genetic mutations relate to the two categories of sam
 4. Which of the two mutations listed above is more useful for the classification of the C and NC samples?
 5. If we use the quantity “TP – FP” to classify samples, which feature would be the most useful for classifying samples? (I.e., of all possible mutations, which genetic mutation yields the maximal value for the quantity “TP – FP”?) What is the maximum value of “TP – FP” across all features?
 6. If we use the quantity “%TP - %FP” to classify samples, which feature would be the most useful for classifying samples? (I.e., of all possible mutations, which genetic mutation yields the maximal value for the quantity “%TP - %FP”?) What is the maximum value of “%TP – %FP” across all features?
+
+# Decision Tree and Rule:
+construct a two-level decision tree to classify an individual sample as a member of either the C class or the NC class using the TP-FP to select best features
